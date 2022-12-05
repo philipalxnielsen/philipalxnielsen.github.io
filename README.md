@@ -1,6 +1,6 @@
 ## Readme
 
-This repository contains the source code for my [website](www.philipnielsen.dev).
+This repository contains the source code for my [website](https://philipnielsen.dev).
 It is hosted via github pages, and stylized via Jekyll w. Chirpy.
 
 ## Usage
