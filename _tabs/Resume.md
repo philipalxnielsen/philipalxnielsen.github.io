@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-#### This is a working resume of sorts. Although i am still young and there are many things i have yet to accomplish, the few things that have brought me here deserves the little recocgnition i can offer through this page.
+#### This is a working resume of sorts. Although i am still young and there are many things i have yet to accomplish, the few things that have brought me here deserves the little recognition i can offer through this page.
 
 ## About Me
 
