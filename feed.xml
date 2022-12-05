@@ -1,0 +1,63 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>philipnielsen.dev</title>
+  <subtitle>This site is a personal project to develop my skills in web-development, as well as being a hub of my own knowlegde and interests.</subtitle>
+  <updated>2022-12-05T14:06:44+01:00</updated>
+  <author>
+    <name>Philip Alexander Nielsen</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator>
+  <rights> © 2022 Philip Alexander Nielsen </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Testing my new website!</title>
+    <link href="http://localhost:4000/posts/testing-my-new-website/" rel="alternate" type="text/html" title="Testing my new website!" />
+    <published>2022-12-02T15:35:00+01:00</published>
+  
+    <updated>2022-12-02T15:35:00+01:00</updated>
+  
+    <id>http://localhost:4000/posts/testing-my-new-website/</id>
+    <content src="http://localhost:4000/posts/testing-my-new-website/" />
+    <author>
+      <name>Philip Alexander Nielsen</name>
+    </author>
+
+  
+    
+    <category term="Test" />
+    
+    <category term="Hardware" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Welcome
+
+Hello! This is my first test on this website!
+
+lorem ipsum dolor sit amet consectetur adipisicing elit. Porro doloribus sint dolorum maiores obcaecati a necessitatibus incidunt eos distinctio sit dolor nulla laborum repudiandae quis quos, veniam rerum iste voluptatibus. lorem ipsum dolor sit amet consectetur adipisicing elit. Porro doloribus sint dolorum maiores obcaecati a necessitati...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
