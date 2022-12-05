@@ -1,6 +1,23 @@
 [
   
   {
+    "title": "Test two",
+    "url": "/posts/Test-two/",
+    "categories": "Test, Hardware",
+    "tags": "",
+    "date": "2022-12-05 12:35:00 +0100",
+    
+
+
+
+
+
+    
+    "snippet": "Testing new setup",
+    "content": "Testing new setup"
+  },
+  
+  {
     "title": "Testing my new website!",
     "url": "/posts/testing-my-new-website/",
     "categories": "Test, Hardware",

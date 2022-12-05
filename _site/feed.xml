@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>philipnielsen.dev</title>
   <subtitle>This site is a personal project to develop my skills in web-development, as well as being a hub of my own knowlegde and interests.</subtitle>
-  <updated>2022-12-05T14:21:33+01:00</updated>
+  <updated>2022-12-05T14:27:50+01:00</updated>
   <author>
     <name>Philip Alexander Nielsen</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,43 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Test two</title>
+    <link href="http://localhost:4000/posts/Test-two/" rel="alternate" type="text/html" title="Test two" />
+    <published>2022-12-05T12:35:00+01:00</published>
+  
+    <updated>2022-12-05T12:35:00+01:00</updated>
+  
+    <id>http://localhost:4000/posts/Test-two/</id>
+    <content src="http://localhost:4000/posts/Test-two/" />
+    <author>
+      <name>Philip Alexander Nielsen</name>
+    </author>
+
+  
+    
+    <category term="Test" />
+    
+    <category term="Hardware" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Testing new setup
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
