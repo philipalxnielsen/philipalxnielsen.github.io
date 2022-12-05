@@ -1,9 +1,9 @@
 [
   
   {
-    "title": "Test two",
-    "url": "/posts/Test-two/",
-    "categories": "Test, Hardware",
+    "title": "Welcome to my Website!",
+    "url": "/posts/Welcome/",
+    "categories": "Music",
     "tags": "",
     "date": "2022-12-05 12:35:00 +0100",
     
@@ -13,25 +13,8 @@
 
 
     
-    "snippet": "Testing new setup",
-    "content": "Testing new setup"
-  },
-  
-  {
-    "title": "Testing my new website!",
-    "url": "/posts/testing-my-new-website/",
-    "categories": "Test, Hardware",
-    "tags": "",
-    "date": "2022-12-02 15:35:00 +0100",
-    
-
-
-
-
-
-    
-    "snippet": "WelcomeHello! This is my first test on this website!lorem ipsum dolor sit amet consectetur adipisicing elit. Porro doloribus sint dolorum maiores obcaecati a necessitatibus incidunt eos distinctio ...",
-    "content": "WelcomeHello! This is my first test on this website!lorem ipsum dolor sit amet consectetur adipisicing elit. Porro doloribus sint dolorum maiores obcaecati a necessitatibus incidunt eos distinctio sit dolor nulla laborum repudiandae quis quos, veniam rerum iste voluptatibus. lorem ipsum dolor sit amet consectetur adipisicing elit. Porro doloribus sint dolorum maiores obcaecati a necessitatibus incidunt eos distinctio sit dolor nulla laborum repudiandae quis quos, veniam rerum iste voluptatibus. lorem ipsum dolor sit amet consectetur adipisicing elit. Porro doloribus sint dolorum maiores obcaecati a necessitatibus incidunt eos distinctio sit dolor nulla laborum repudiandae quis quos, veniam rerum iste voluptatibus. lorem ipsum dolor sit amet consectetur adipisicing elit. Porro doloribus sint dolorum maiores obcaecati a necessitatibus incidunt eos distinctio sit dolor nulla laborum repudiandae quis quos, veniam rerum iste voluptatibus. lorem ipsum dolor sit amet consectetur adipisicing elit. Porro doloribus sint dolorum maiores obcaecati a necessitatibus incidunt eos distinctio sit dolor nulla laborum repudiandae quis quos, veniam rerum iste voluptatibus. lorem ipsum dolor sit amet consectetur adipisicing elit. Porro doloribus sint dolorum maiores obcaecati a necessitatibus incidunt eos distinctio sit dolor nulla laborum repudiandae quis quos, veniam rerum iste voluptatibus. lorem ipsum dolor sit amet consectetur adipisicing elit. Porro doloribus sint dolorum maiores obcaecati a necessitatibus incidunt eos distinctio sit dolor nulla laborum repudiandae quis quos, veniam rerum iste voluptatibus.  Unordered listLets try some codeC#include &lt;stdio.h&gt;int main(void){printf(\"Hello World!\");return 0;}Javascriptconsole.log('Hello World!')"
+    "snippet": "Welcome to my Website!With the basics of this website now set up and properly configurated, i am finally able to run a welcome message, and what better introduction than to test out this spotify fe...",
+    "content": "Welcome to my Website!With the basics of this website now set up and properly configurated, i am finally able to run a welcome message, and what better introduction than to test out this spotify feature. I hope you like the music, and i will be looking forward to seeing what will become of the site! :)"
   }
   
 ]

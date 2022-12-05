@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>philipnielsen.dev</title>
   <subtitle>This site is a personal project to develop my skills in web-development, as well as being a hub of my own knowlegde and interests.</subtitle>
-  <updated>2022-12-05T21:17:43+01:00</updated>
+  <updated>2022-12-05T21:26:47+01:00</updated>
   <author>
     <name>Philip Alexander Nielsen</name>
     <uri>http://localhost:4000/</uri>
@@ -20,23 +20,21 @@
 
   
   <entry>
-    <title>Test two</title>
-    <link href="http://localhost:4000/posts/Test-two/" rel="alternate" type="text/html" title="Test two" />
+    <title>Welcome to my Website!</title>
+    <link href="http://localhost:4000/posts/Welcome/" rel="alternate" type="text/html" title="Welcome to my Website!" />
     <published>2022-12-05T12:35:00+01:00</published>
   
-    <updated>2022-12-05T15:23:58+01:00</updated>
+    <updated>2022-12-05T12:35:00+01:00</updated>
   
-    <id>http://localhost:4000/posts/Test-two/</id>
-    <content src="http://localhost:4000/posts/Test-two/" />
+    <id>http://localhost:4000/posts/Welcome/</id>
+    <content src="http://localhost:4000/posts/Welcome/" />
     <author>
       <name>Philip Alexander Nielsen</name>
     </author>
 
   
     
-    <category term="Test" />
-    
-    <category term="Hardware" />
+    <category term="Music" />
     
   
 
@@ -48,50 +46,12 @@
 
 
 
-      Testing new setup
+      Welcome to my Website!
+
+With the basics of this website now set up and properly configurated, i am finally able to run a welcome message, and what better introduction than to test out this spotify feature. I hope you like the music, and i will be looking forward to seeing what will become of the site! :)
 
 
 
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Testing my new website!</title>
-    <link href="http://localhost:4000/posts/testing-my-new-website/" rel="alternate" type="text/html" title="Testing my new website!" />
-    <published>2022-12-02T15:35:00+01:00</published>
-  
-    <updated>2022-12-02T15:35:00+01:00</updated>
-  
-    <id>http://localhost:4000/posts/testing-my-new-website/</id>
-    <content src="http://localhost:4000/posts/testing-my-new-website/" />
-    <author>
-      <name>Philip Alexander Nielsen</name>
-    </author>
-
-  
-    
-    <category term="Test" />
-    
-    <category term="Hardware" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Welcome
-
-Hello! This is my first test on this website!
-
-lorem ipsum dolor sit amet consectetur adipisicing elit. Porro doloribus sint dolorum maiores obcaecati a necessitatibus incidunt eos distinctio sit dolor nulla laborum repudiandae quis quos, veniam rerum iste voluptatibus. lorem ipsum dolor sit amet consectetur adipisicing elit. Porro doloribus sint dolorum maiores obcaecati a necessitati...
     </summary>
   
 
