@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   This site is a personal project to develop my skills in web-development, as well as being a hub of my own knowlegde and interests.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'philipnielsen.dev' #Change to domain when acquired
+url: 'https://philipnielsen.dev' #Change to domain when acquired
 
 github:
   username: philipalxnielsen             # change to your github username
